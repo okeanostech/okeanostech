@@ -22,7 +22,7 @@
   <li>first time I used a linux machine (ubuntu) was on a virtual machine named "bruh"</li>
   <li>religious watcher of networkchuck</li>
   <li>currently reading: <b>How to Become a Master Hacker</b> by <i>Occupytheweb</i></li>
-  <p><b><center><a href="https://www.sanfransentinel.com/hackthekitchen.html">Now I'm not saying you should click this link... but you should <i>definitely</i> click this link.</a></center></b></p>
+  <p><b><center>Now I'm not saying you should spend every waking moment in the terminal... but, if you don't wanna starve, you should check out these recipes. <a href="https://www.sanfransentinel.com/hackthekitchen1.html">You <i>definitely</i> need to try the hot cheetos tacos.</a></center></b></p>
   
   </body>
 </html>

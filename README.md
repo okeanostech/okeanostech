@@ -12,27 +12,18 @@
     <div style="font-family: 'Benne:regular', serif;"><p style="text-align:justify|center"><b><h1>OKEANOS TECH</b></h1></p></div>
     <p><h3><i>—about me.</i></h3></p>
   <li> self-taught (and continually doing so!)</li>
-  <li> tails os > debian/ubuntu</li>
-  <li> vmware > virtualbox</li>
+  <li> kali ☑ tails os ☑ debian/ubuntu ☑ windows ☑</li>
+  <li> vmware ☑ virtualbox ☑</li>
   <li> cats > dogs </li>
-  <li>thai red curry > all other food (ikr?)</li>
+  <li>thai red curry ></li>
     <div style="justify">
     <p><h3><i>—professional career.</i></h3></p></div>
-  <li>first hacking tool (on myself!): BEeF (i'm a vegan???)</li>
-  <li>first time I used a linux machine (ubuntu) was on a virtual machine named "bruh"</li>
-  <li>religious watcher of networkchuck</li>
+  <li>first hacking tool (on myself!): BEeF </li>
+  <li>EMT turned cybersecurity afficianado</li>
+  <li>OSINTframework ☑</li>
   <li>currently reading: <b>How to Become a Master Hacker</b> by <i>Occupytheweb</i></li>
   <p><b><center>Now I'm not saying you should spend every waking moment in the terminal... but, if you don't wanna starve, you should check out these recipes. <a href="https://www.sanfransentinel.com/hackthekitchen1.html">You <i>definitely</i> need to try the hot cheetos tacos.</a></center></b></p>
   
   </body>
 </html>
 
-
-
-
-      
-
-<!---
-okeanostech/okeanostech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
